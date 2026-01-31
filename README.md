@@ -1,5 +1,5 @@
 # AirMouse-AI-Image-Optimizer-Tool
-AirMouse AI: Image Optimizer Tool
+AirMouse AI: Image Optimizer Tool 
 
 A sleek, Flask-powered web utility designed to prepare visual assets for the AirMouse AI project. This tool automates the tedious process of resizing, cropping, and compressing images to meet specific technical requirements for AI-driven applications.
 
